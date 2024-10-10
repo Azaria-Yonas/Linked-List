@@ -10,7 +10,7 @@ This is a user defined linked list!!! Before proceeding, make sure you are famil
 
 ## Features
 
-- **Singly Linked List**
+- **Linked List**
   - Basic operations: append, delete, and insert.
 
 
