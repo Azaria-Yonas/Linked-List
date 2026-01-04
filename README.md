@@ -2,11 +2,8 @@
 
 ## Overview
 
-This repository contains the basics of a User-defined linked list and a doubly linked list in C++. I made them as simple as possible and included implementations. 
+This repository contains a User-defined linked list and a doubly linked list in C++.
 
-### Note
-
-This is a user defined linked list!!! Before proceeding, make sure you are familiar with classes, structures, pointers (including dynamic allocation), static members, constructors and deconstructors, encapsulation, etc.
 
 ## Features
 
@@ -25,5 +22,4 @@ This is a user defined linked list!!! Before proceeding, make sure you are famil
 
 ### Prerequisites
 
-- C++ 13.1.0
-- An IDE + Complier (e.g., g++)
+- C++ Complier 
